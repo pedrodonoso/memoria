@@ -1,5 +1,5 @@
 CMakeFiles/jens.dir/Main.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Main.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -149,7 +149,7 @@ CMakeFiles/jens.dir/Main.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Point3D.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Point3D.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/bits/sstream.tcc \
  /usr/include/c++/11/math.h /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
@@ -182,10 +182,10 @@ CMakeFiles/jens.dir/Main.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Hexahedron.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Element.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Prism.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Pyramid.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Tetrahedron.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Quality.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Hexahedron.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Element.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Prism.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Pyramid.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Tetrahedron.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Quality.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h

@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/SurfEdgeContainer.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfEdgeContainer.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfEdgeContainer.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfEdgeContainer.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfEdgeContainer.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -154,5 +154,5 @@ CMakeFiles/mesher_roi.dir/SurfEdgeContainer.cpp.o: \
  /usr/include/c++/11/bits/allocated_ptr.h \
  /usr/include/c++/11/ext/aligned_buffer.h \
  /usr/include/c++/11/bits/list.tcc \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfEdge.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfPair.h
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfEdge.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfPair.h

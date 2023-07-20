@@ -1,4 +1,4 @@
-# Install script for directory: /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src
+# Install script for directory: /home/pdonoso/Documentos/memoria/unziped/jens/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/pdonoso/Documentos/memoria/unziped/jens/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/TransitionTemplate.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/TransitionTemplate.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/TransitionTemplate.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/TransitionTemplate.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/TransitionTemplate.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -161,9 +161,9 @@ CMakeFiles/mesher_roi.dir/TransitionTemplate.cpp.o: \
  /usr/include/c++/11/bits/invoke.h \
  /usr/include/c++/11/bits/stl_multimap.h \
  /usr/include/c++/11/bits/erase_if.h /usr/include/c++/11/bitset \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/TransitionCube.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/TransitionCube.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/bits/sstream.tcc \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/TransitionPoint.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/TransitionPoint.h \
  /usr/include/c++/11/math.h /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -174,6 +174,6 @@ CMakeFiles/mesher_roi.dir/TransitionTemplate.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/PatternFactory.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/MeshPoint.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/Point3D.h
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/PatternFactory.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/MeshPoint.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/Point3D.h

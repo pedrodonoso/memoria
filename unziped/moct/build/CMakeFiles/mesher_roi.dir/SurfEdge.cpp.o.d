@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/SurfEdge.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfEdge.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfEdge.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfEdge.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfEdge.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

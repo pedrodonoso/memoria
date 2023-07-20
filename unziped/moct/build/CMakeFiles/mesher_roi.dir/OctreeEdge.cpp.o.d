@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/OctreeEdge.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/OctreeEdge.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/OctreeEdge.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/OctreeEdge.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/OctreeEdge.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

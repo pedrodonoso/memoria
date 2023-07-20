@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/Face.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/Face.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/Face.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/Face.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/Face.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

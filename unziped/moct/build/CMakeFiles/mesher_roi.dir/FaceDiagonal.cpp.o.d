@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/FaceDiagonal.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/FaceDiagonal.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/FaceDiagonal.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/FaceDiagonal.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/FaceDiagonal.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/Point3D.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/Point3D.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/Point3D.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/Point3D.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/Point3D.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

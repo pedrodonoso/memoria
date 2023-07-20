@@ -1,8 +1,8 @@
 CMakeFiles/jens.dir/Hexahedron.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Hexahedron.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Hexahedron.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Hexahedron.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Element.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Hexahedron.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Element.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -179,7 +179,7 @@ CMakeFiles/jens.dir/Hexahedron.cpp.o: \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/jens/src/Point3D.h \
+ /home/pdonoso/Documentos/memoria/unziped/jens/src/Point3D.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/bits/sstream.tcc \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \

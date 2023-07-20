@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/SurfTemplate1.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfTemplate1.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfTemplate1.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfTemplate1.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfTemplate1.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -43,4 +43,4 @@ CMakeFiles/mesher_roi.dir/SurfTemplate1.cpp.o: \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/range_access.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/HexRotation.h
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/HexRotation.h

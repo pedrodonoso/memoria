@@ -1,8 +1,8 @@
 CMakeFiles/mesher_roi.dir/SurfPrism.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfPrism.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfPrism.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/SurfPrism.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/FaceDiagonal.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/SurfPrism.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/FaceDiagonal.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -150,7 +150,7 @@ CMakeFiles/mesher_roi.dir/SurfPrism.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/MeshPoint.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/MeshPoint.h \
  /usr/include/c++/11/math.h /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -161,7 +161,7 @@ CMakeFiles/mesher_roi.dir/SurfPrism.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/Point3D.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/Point3D.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/bits/sstream.tcc \
  /usr/include/c++/11/list /usr/include/c++/11/bits/stl_list.h \
  /usr/include/c++/11/bits/allocated_ptr.h \

@@ -1,7 +1,7 @@
 CMakeFiles/mesher_roi.dir/FaceContainer.cpp.o: \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/FaceContainer.cpp \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/FaceContainer.cpp \
  /usr/include/stdc-predef.h \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/FaceContainer.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/FaceContainer.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -154,7 +154,7 @@ CMakeFiles/mesher_roi.dir/FaceContainer.cpp.o: \
  /usr/include/c++/11/bits/allocated_ptr.h \
  /usr/include/c++/11/ext/aligned_buffer.h \
  /usr/include/c++/11/bits/list.tcc \
- /home/pdonoso/Documentos/Memoria/git/memoria/unziped/moct/src/Face.h \
+ /home/pdonoso/Documentos/memoria/unziped/moct/src/Face.h \
  /usr/include/c++/11/fstream /usr/include/c++/11/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
